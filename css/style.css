@@ -1,0 +1,10 @@
+@import url(bootstrap.css);
+
+body {
+    background-color: blanchedalmond;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+}
