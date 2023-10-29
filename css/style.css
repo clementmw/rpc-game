@@ -2,9 +2,24 @@
 
 body {
     background-color: blanchedalmond;
+}
+
+.container {
     align-items: center;
     justify-content: center;
     display: flex;
     height: 100vh;
     margin: 0;
+    
+}
+
+#displayResults {
+    text-align: centre;
+    align-items: left;
+}
+
+button{
+    padding: 20px;
+    height: auto;
+    
 }
